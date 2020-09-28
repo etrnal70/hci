@@ -15,12 +15,12 @@
 Narasumber : Aditya Ramadhan\
 Pekerjaan : Freelance UI / UX Desainer\
 Jumlah Proyek : ±30 proyek\
-[LinkedIn](https://www.linkedin.com/in/adityarmdn)    [AdobeXD](https://xd.adobe.com/view/c3422b0b-69d3-4c66-b198-fe7b3f575f3b-9611/grid)\
+[LinkedIn](https://www.linkedin.com/in/adityarmdn)  |   [AdobeXD](https://xd.adobe.com/view/c3422b0b-69d3-4c66-b198-fe7b3f575f3b-9611/grid)
 
 - [x] [Interview](https://github.com/etrnal70/hci/blob/master/Assignment%202/README.md#interview)
 - [x] [Design Analysis](https://github.com/etrnal70/hci/blob/master/Assignment%202/README.md#design-analysis)
 
-***Link YouTube Wawancara***
+***Link YouTube Wawancara***\
 [Part I](https://www.youtube.com/watch?v=DfWs1DR_gAo&feature=youtu.be&ab_channel=FarhanDewantaS)\
 [Part II](https://www.youtube.com/watch?v=3uyI3Km7KZ0&ab_channel=FarhanDewantaS)\
 [Part III](https://www.youtube.com/watch?v=FKIHRe5Qgrc&ab_channel=FarhanDewantaS)\
