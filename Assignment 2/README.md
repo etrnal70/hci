@@ -56,3 +56,14 @@ Ulasan kedua mengenai home page. Menurut kami, pada homepage ini sudah bagus, in
 
 Ulasan ketiga mengenai content page. Menurut kami, dalam content page tersebut sudah berisi informasi yang banyak berguna bagi user. Tetapi, dalam content tersebut terdapat sebagian deskripsi yang menurut kami tidak memuaskan. pertama-tama, font deskripsi tersebut terlalu kecil dan juga terlalu rapat sehingga terlalu sulit untuk dibaca bagi sebagian user. Seharusnya font tersebut diperbesar dan juga padding dari tulisan tersebut diperbesar sehingga tulisan tersebut tampak lebar dan tidak rapat-rapat jadi user dapat membaca content tersebut dengan jelas.
 </p>
+
+<h2>Design Improvement</h2>
+
+
+<p> 
+Improvement 1\
+Pada improvement pertama ini, kami memperbaiki contact info pada bagian bawah website tersebut. Awalnya, contact info tersebut memiliki struktur yang memanjang kesamping dan berdempetan. Menurut kami, desain seperti itu membuat user tidak nyaman untuk membacanya sehingga kami mengganti struktur contact info tersebut menjadi semacam list (terstruktur kebawah) sehingga user lebih nyaman untuk membacanya.\
+
+Improvement 2\
+Di improvement kedua, kami memperbaiki logo perusahaan (KOMET), notification button dan profile button yang terletak di pojok kanan atas. Menurut kami, lebih baik logo perusahaan tersebut diletakkan di sebelah kiri notification button dan profile button. Lalu, notification button dan profile button-nya diperbesar. 
+</p>
