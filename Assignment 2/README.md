@@ -6,6 +6,8 @@ Role : Freelance UI / UX Designer
 
 Interview :
 
+<div style="text-align: justify">
+
 **Q: Latar belakang anda sebagai seorang desainer ?**
 
 A: Awalnya, saya memulai kesukaan desain saya pada saat SMA. Saat itu saya bercita-cita masuk DKV di ITB, tetapi rejeki saya adalah di UIN di Sistem Informasi. Saya disana lebih belajar mengenai sistem bisnis dan manajemen. Disana, saya juga belajar tentang Human Computer Interaction dan belajar mengenai ergonomis, intuitif, dan belajar mengenai hal-hal yang saya suka saat mendesain. Dari situlah saya mulai berkenalan dengan dunia front-end development.\
@@ -23,7 +25,7 @@ Setelah oke, kita bikin sketch dulu terkait desainnya. Untuk inspirasi sih biasa
 
 **Q: Anda tadi mengatakan bahwa mencari inspirasi desain lewat toko yang sudah ada. Apa itu berarti anda juga tetap menerapkan satu atau lain hal yang ada di toko tersebut ?**
 
-A:Iya betul unsur atau struktur e-commerce itu kan bisa dibilang mirip lah satu sama lain. Beberapa unsur desainnya juga udah lumrah buat ada. Jadi paling untuk ngebedainnya ya dengan brandsnya aja.
+A: Iya betul unsur atau struktur e-commerce itu kan bisa dibilang mirip lah satu sama lain. Beberapa unsur desainnya juga udah lumrah buat ada. Jadi paling untuk ngebedainnya ya dengan brandsnya aja.
 
 **Q: Lalu apakah menerapkan unsur yang ada pada desain lain merupakan suatu hal yang harus dilakukan untuk memudahkan user dalam menggunakan aplikasi kita ? Hal ini didasari dengan user yang sudah terbiasa dengan desain e-commerce lain.**
 
@@ -35,7 +37,10 @@ A: Menurut saya, setiap orang mempunyai "taste" desaign yang berbeda-beda dan in
 Lain hal jika yang kita buat itu merupaka self project atau project pribadi dimana kita dapat membuat desain sesuka hati. Saya sendiri merasa bahwa ciri khas atau filosofi desain saya pun berubah-rubah dari waktu ke waktu seiring perkembangan diri. Jadi dari jawaban ini didapatkan, sebelum kita meenerapkan filosofi desain kita, kita harus terlebih dahulu mengetahui dan menerapkan permintaan yang sesuai dengan yang user/klien minta.
 
 **Q: Menurut anda, seberapa penting user feedback bagi rancangan desain yang anda buat ?**
+
 A: Menurut saya, jika di skalakan dari 1 - 10, maka pentingnya user feedback terdapat pada angka 10, atau dapat dibilang sangat penting. Karena memang goals atau tujuan kita itu untuk kepuasan pengguna dalam berinteraksi dengan desain kita. Jadi meski desainer menganggap desain yang ia buat itu sudah bagus, namun di mata user itu jelek atau kurang memuaskan, maka mau tidak mau desainer harus mengganti desainnya yang sesuai dengan user minta. Dalam beberapa kasus pun terdapat user-user yang memiliki pendapat yang saling berlawanan. Misal user A bilang oh ini terlalu besar, tetapi di sisi lain user B bilang ini terlalu kecil. Jika sudah terjadi kondisi seperti itu, saya sendiri menyatakan bahwa sebagai desainer biasanya kita ambil yang punya samper terbanyak. Sampel terbanyak itu yang nantinya akan kita ikuti. Karena seperti yan saya bilang bahwa sebaggus apapun desain pasti ada orang yang tidak suka, maka dari itu di perlukan feedback dengan sampel terbanyak dalam merancang suatu desain.
 
 **Q: Ketika mendesain sesuatu, yang menjadi perhatian paling penuh dalam interaksi antara manusia dengan aplikasinya itu di bagian mana ?**
+
 A: Biasanya hal itu bergantung pada bisnis atau klien. Jika diambil contohnya adalah e-commerce, yang mendapat perhatian penuh saat mendesainnya itu biasanya berada pada bagian home. Dalam pembuatan home page pada e-commerce, kita harus membuat halaman home itu semenarik mungkin agar user tertarik mengulik kedalam aplikasi e-commerce yang telah dibuat itu. Terdapat juga beberapa kasus dimana halaman home nya tidak begitu menarik namun sebenarnya isi dari e-commerce nya menarik banget. Jika hal itu terjadi, user tidak akan mengulik kedalam e-commerce tersebut karena dengan melihat home-nya saja sudah tidak tertarik sehingga dapat membuat orangberprasangka isi dari e-commercenya juga tidak menarik. Namun di lain hal kita juga jangan membuat home yang menarik dengan isi yang kurang atau tidak menarik. Tentunya user juga tidak kana tertarik untuk mengulik kedalam e-commerce yang dibuat. Jadi dapat disimpulkan perhatian kita dalam membuat desain harus proporsional dan konsisten. 
+</div>
