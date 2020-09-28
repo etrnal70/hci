@@ -28,7 +28,8 @@ Dari kesalahan ini, terdapat detail penting. Opsi untuk melakukan uji sistem dan
 
 ## Design Analysis
 
-Dalam panel Nuclear Alerts, terdapat satu tombol yaitu tombol PACOM State, PACOM adalah singkatan dari Pacific Command. Panel ini adalah panel yang paling penting. Karena tombol yang ada di panel ini pernah disalahgunakan dengan tidak sengaja, jadi tombol ini dijadikan prioritas dengan diberi background warna merah. 
+Dalam panel Nuclear Alerts, terdapat satu tombol yaitu tombol PACOM State, PACOM adalah singkatan dari Pacific Command. Panel ini adalah panel yang paling penting. Karena tombol yang ada di panel ini pernah disalahgunakan dengan tidak sengaja, jadi tombol ini dijadikan prioritas dengan diberi background warna merah.\
+
 1. Nuclear Alerts -> PACOM State -> Untuk menyalakan alarm nuklir PACOM di negara bagian.
 
 Dalam panel AMBER Alerts, terdapat dua tombol yaitu tombol Amber Alerts State dan Amber Alerts Kauai Country. AMBER adalah singkatan dari America's Missing: Broadcast Emergency Response. Panel ini adalah panel yang penting setelah Nuclear Alerts karena berfungsi untuk  mengumumkan ke publik dalam program membantu mencari anak yang diculik.\
@@ -37,20 +38,22 @@ Dalam panel AMBER Alerts, terdapat dua tombol yaitu tombol Amber Alerts State da
 
 3. Amber Alerts -> Amber Alerts Kauai Country -> Untuk menyalakan alarm AMBER di negara Kauai, tombol ini memiliki fungsi dan jenis yang sama dengan Amber Alerts State namun hanya berbeda lokasi saja.
 
-Dalam panel Weather Alerts, terdapat 3 tombol yang berfungsi untuk mengumumkan peringatan-peringatan cuaca. terdapat peringatan tentang Tsunami Alert, High Surf Warning, Landslide\
+Dalam panel Weather Alerts, terdapat 3 tombol yang berfungsi untuk mengumumkan peringatan-peringatan cuaca. terdapat peringatan tentang Tsunami Alert, High Surf Warning, Landslide.\
 
-4. Weather Alerts -> Tsunami Warning State --> Untuk menyalakan alarm cuaca tentang peringatan Tsunami di area negara bagian
+4. Weather Alerts -> Tsunami Warning State --> Untuk menyalakan alarm cuaca tentang peringatan Tsunami di area negara bagian.
 
-5. Weather Alerts -> High Surf Warning Shores --> Untuk menyalakan alarm cuaca tentang peringatan ombak tinggi di area pantai
+5. Weather Alerts -> High Surf Warning Shores --> Untuk menyalakan alarm cuaca tentang peringatan ombak tinggi di area pantai.
 
-6.  Weather Alerts -> Landslide Road Closure --> Untuk menyalakan alarm cuaca tentang peringatan penutupan jalan karena longsor
+6.  Weather Alerts -> Landslide Road Closure --> Untuk menyalakan alarm cuaca tentang peringatan penutupan jalan karena longsor.
 
-Dalam panel Drill / Alerts, terdapat dua tombol yang berfungsi sama seperti tombol-tombol sebelumnya namun dalam panel ini, semua tombol hanya untuk TESTING, bukan tombol sungguhan. tombol ini digunakan untuk menguji peringatan sebelum penggunaan tombol peringatan yang sebenarnya.\
+Dalam panel Drill / Alerts, terdapat tiga tombol yang berfungsi sama seperti tombol-tombol sebelumnya namun dalam panel ini, semua tombol hanya untuk TESTING, bukan tombol sungguhan. tombol ini digunakan untuk menguji peringatan sebelum penggunaan tombol peringatan yang sebenarnya.\
 
-7. (DRILL) PACOM State -> Untuk menyalakan alarm test nuklir PACOM di negara bagian
+7. (DRILL) PACOM State -> Untuk menyalakan alarm test nuklir PACOM di negara bagian.
 
-8. (TEST) Amber Alert -> Untuk menyalakan alarm test AMBER
+8. (TEST) Amber Alert -> Untuk menyalakan alarm test AMBER.
 
-9.  (TEST) Tsunami Warning -> Untuk menyalakan alarm test peringatan tentang tsunami
+9.  (TEST) Tsunami Warning -> Untuk menyalakan alarm test peringatan tentang tsunami.
 
-10. BMD False Alarm -> Tombol ini diletakkan terpisah dari yang lain karena tombol ini berfungsi untuk membatalkan alarm yang telah dilancarkan.
+Dan di luar tabel terdapat satu tombol yaitu BMD False Alarm, tombol ini terpisah dari panel karena memiliki fungsi yang berlawanan.\
+
+10. BMD False Alarm -> Untuk membatalkan alarm yang telah dilancarkan.
