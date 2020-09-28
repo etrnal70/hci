@@ -13,6 +13,7 @@ Di tahun 2018, masyarakat Hawaii dikejutkan dengan sebuah pesan dari Hawaiian Em
 ## Main Topic
 Penyelidikan yang dilakukan pasca kejadian tersebut mengungkap sebuah fakta penting. Salah satu personil yang bekerja di kantor HEMA rupanya melakukan kesalahan dalam mengoperasikan sistem peringatan rudal tersebut. Setelah dimintai keterangan lebih lanjut, ternyata sang personil salah memilih opsi pada sistem. Seharusnya dia memilih menu untuk mengirimkan pesan *testing*, tetapi ia malah memilih peringatan asli.
 
+## Design Error
 <p align="center">
     <img width="450" src="./images/user-interface.jpeg">
 </p>
