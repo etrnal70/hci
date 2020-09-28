@@ -8,6 +8,7 @@
 ### [Assignment 1](https://github.com/etrnal70/hci/blob/master/Assignment%201/README.md)
 - [x] [Abstract](https://github.com/etrnal70/hci/blob/master/Assignment%201/README.md#abstract)
 - [x] [Main Topic](https://github.com/etrnal70/hci/blob/master/Assignment%201/README.md#main-topic)
+- [x] [Design Error](https://github.com/etrnal70/hci/blob/master/Assignment%201/README.md#design-error)
 - [x] [Design Analysis](https://github.com/etrnal70/hci/blob/master/Assignment%201/README.md#design-analysis)
 
 ### [Assignment 2](https://github.com/etrnal70/hci/blob/master/Assignment%202/README.md)
