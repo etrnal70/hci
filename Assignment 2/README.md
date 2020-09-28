@@ -4,7 +4,7 @@
 Nama : [Aditya Ramadhan](https://www.linkedin.com/in/adityarmdn)\
 Role : Freelance UI / UX Designer
 
-Interview :
+<h2>Interview :</h2>
 
 <p style="text-align: justify">
 
@@ -43,4 +43,18 @@ A: Menurut saya, jika di skalakan dari 1 - 10, maka pentingnya *user feedback* t
 **Q: Ketika mendesain sesuatu, yang menjadi perhatian paling penuh dalam interaksi antara manusia dengan aplikasinya itu di bagian mana ?**
 
 A: Biasanya hal itu bergantung pada bisnis atau klien. Jika diambil contohnya adalah *e-commerce*, yang mendapat perhatian penuh saat mendesainnya itu biasanya berada pada bagian *home*. Dalam pembuatan *home* page pada *e-commerce*, kita harus membuat halaman *home* itu semenarik mungkin agar *user* tertarik mengulik kedalam aplikasi *e-commerce* yang telah dibuat itu. Terdapat juga beberapa kasus dimana halaman *home*-nya tidak begitu menarik namun sebenarnya isi dari *e-commerce* nya sangat menarik. Jika hal itu terjadi, *user* tidak akan mengulik kedalam *e-commerce* tersebut karena dengan melihat *home*-nya saja sudah tidak tertarik sehingga dapat membuat orang berprasangka isi dari *e-commerce*-nya juga tidak menarik. Namun di lain hal kita juga jangan membuat *home* yang menarik dengan isi yang kurang atau tidak menarik. Tentunya *user* juga tidak akan tertarik untuk mengulik kedalam *e-commerce* yang dibuat. Jadi dapat disimpulkan perhatian kita dalam membuat desain harus proporsional dan konsisten. 
+</p>
+
+<h2>Desain analisis :</h2>
+
+<p>
+Setelah mewawancarai bang adit (Narasumber) , kami meminta salah satu produk yang pernah bang adit buat. Bang adit memberi kami sebuah proyek lama yang pernah ia buat dengan tools adobe XD. Proyek tersebut mempunyai klien Pertamina. dalam proyek tersebut, kami menganalisis bahwa proyek tersebut sudah memenuhi kepuasan klien, namun sesuai perkataan bang adit, bahwa sebagus apapun design nya pasti ada kekurangan dan user yang tidak puas dengan design tersebut.
+
+dan dalam analisa kami ini, kami mencoba untuk mengulas dan memberi komentar mengenai design yang bang adit buat.
+
+ulasan pertama mengenai login page. Seperti website pada umumnya, login yang diberikan tampak simple dan menampilkan form yang berisi Email. Password, Domain, dan login Button. Menurut kami, bagian laman login tersebut sudah cukup bagus dan tidak ada yang perlu dirubah. hal ini membuat user tidak terlalu rumit dalam melakukan login pada website tersebut.
+
+ulasan kedua mengenai home page. menurut kami, pada homepage ini sudah bagus, informasi yang tersedia dikemas dengan baik, ditampilkan dengan teratur, dan memiliki thumbnail yang menarik sehingga user yang mengunjungi website tersebut menjadi tertarik untuk mengulas lebih dalam website tersebut.
+
+ulasan ketiga mengenai content page. menurut kami,  dalam content page tersebut sudah berisi informasi yang banyak berguna bagi user. tetapi, dalam content tersebut terdapat sebagian deskripsi yang menurut kami tidak memuaskan. pertama-tama, font deskripsi tersebut terlalu kecil dan juga terlalu rapat sehingga terlalu sulit untuk dibaca bagi sebagian user. seharusnya font tersebut diperbesar dan juga padding dari tulisan tersebut diperbesar sehingga tulisan tersebut tampak lebar dan tidak rapat-rapat jadi user dapat membaca content tersebut dengan jelas.
 </p>
