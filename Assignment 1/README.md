@@ -3,9 +3,6 @@
 
 ## Abstract
 
-In 2018, people of Hawaii were stunned by a message from the Hawaiian Emergency Management Agency (HEMA) about ballistic missile alert. People were sent into panic and run over the place, preparing for each of their own safety. It was a 30 minute of chaos in Hawaii until the HEMA made an announcement. The missile
-alert is, in fact, a drill.
-
 Di tahun 2018, masyarakat Hawaii dikejutkan dengan sebuah pesan dari Hawaiian Emergency Management Agency (HEMA) pada ponsel mereka mengenai peringatan akan datangnya rudal balistik. Situasi Hawaii saat itu berubah menjadi mencekam. Orang-orang berlarian mencari tempat perlindungan, kegiatan yang ada di Hawaii saat itu langsung berhenti. Kekacauan itu terjadi selama 30 menit hingga HEMA memberikan pengumuman kedua. Peringatan rudal balistik itu, ternyata adalah sebuah *test*.
 
 <p align="center">
