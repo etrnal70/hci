@@ -1,7 +1,7 @@
 
 # TASK 2 : Interviewing a UI/UX Designer
 
-Nama : Aditya Ramadhan\
+Nama : [Aditya Ramadhan](https://www.linkedin.com/in/adityarmdn)\
 Role : Freelance UI / UX Designer
 
 Interview :
