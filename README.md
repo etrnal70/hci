@@ -23,4 +23,4 @@ Jumlah Proyek : ±30 proyek\
 ***Link YouTube Wawancara***\
 [Part I](https://www.youtube.com/watch?v=DfWs1DR_gAo&feature=youtu.be&ab_channel=FarhanDewantaS)\
 [Part II](https://www.youtube.com/watch?v=3uyI3Km7KZ0&ab_channel=FarhanDewantaS)\
-[Part III](https://www.youtube.com/watch?v=FKIHRe5Qgrc&ab_channel=FarhanDewantaS)\
+[Part III](https://www.youtube.com/watch?v=FKIHRe5Qgrc&ab_channel=FarhanDewantaS)
