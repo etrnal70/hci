@@ -62,8 +62,10 @@ Ulasan ketiga mengenai content page. Menurut kami, dalam content page tersebut s
 
 <p> 
 Improvement 1<br>
+  
 Pada improvement pertama ini, kami memperbaiki contact info pada bagian bawah website tersebut. Awalnya, contact info tersebut memiliki struktur yang memanjang kesamping dan berdempetan. Menurut kami, desain seperti itu membuat user tidak nyaman untuk membacanya sehingga kami mengganti struktur contact info tersebut menjadi semacam list (terstruktur kebawah) sehingga user lebih nyaman untuk membacanya.
 
 Improvement 2\
+
 Di improvement kedua, kami memperbaiki logo perusahaan (KOMET), notification button dan profile button yang terletak di pojok kanan atas. Menurut kami, lebih baik logo perusahaan tersebut diletakkan di sebelah kiri notification button dan profile button. Lalu, notification button dan profile button-nya diperbesar. 
 </p>
