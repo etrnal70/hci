@@ -19,6 +19,7 @@ Jumlah Proyek : ±30 proyek\
 
 - [x] [Interview](https://github.com/etrnal70/hci/blob/master/Assignment%202/README.md#interview)
 - [x] [Design Analysis](https://github.com/etrnal70/hci/blob/master/Assignment%202/README.md#design-analysis)
+- [x] [Design Improvement](https://github.com/etrnal70/hci/blob/master/Assignment%202/README.md#design-improvement)
 
 ***Link YouTube Wawancara***\
 [Part I](https://www.youtube.com/watch?v=DfWs1DR_gAo&feature=youtu.be&ab_channel=FarhanDewantaS)\

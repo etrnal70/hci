@@ -28,6 +28,16 @@ Dari kesalahan ini, terdapat detail penting. Opsi untuk melakukan uji sistem dan
 
 ## Design Analysis
 
+<img src="./images/Confirmation(Test).jpg">
+<img src="./images/YesConfirmation(Test).jpg">
+
+<img src="./images/Confirmation(Alarm).jpg">
+<img src="./images/YesConfirmation(alarm).jpg">
+
+<img src="./images/Confirmation(Cancel).jpg">
+<img src="./images/YesConfirmation(Cancel).jpg">
+<br>
+
 Dalam panel Nuclear Alerts, terdapat satu tombol yaitu tombol PACOM State, PACOM adalah singkatan dari Pacific Command. Panel ini adalah panel yang paling penting. Karena tombol yang ada di panel ini pernah disalahgunakan dengan tidak sengaja, jadi tombol ini dijadikan prioritas dengan diberi background warna merah.\
 
 1. Nuclear Alerts -> PACOM State -> Untuk menyalakan alarm nuklir PACOM di negara bagian.

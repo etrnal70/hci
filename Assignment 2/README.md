@@ -1,8 +1,8 @@
 
 # TASK 2 : Interviewing a UI/UX Designer
 
-Nama : [Aditya Ramadhan](https://www.linkedin.com/in/adityarmdn)\
-Role : Freelance UI / UX Designer
+**Nama : Aditya Ramadhan**\
+*Role : Freelance UI / UX Designer*
 
 <h2>Interview</h2>
 
@@ -34,7 +34,7 @@ A: Tidak juga. Kalau kalian tau, perusahaan besar seperti tokopedia biasanya set
 **Q: Apakah anda memiliki suatu ciri khas atau filosofi tertentu dalam merancang suatu konsep desain ?**
 
 A: Menurut saya, setiap orang mempunyai *taste* desain yang berbeda-beda dan ini lebih mengarah ke relatif. Dan untuk membedakannya, saya berusaha untuk membuat desain yang seunik mungkin. Contohnya seperti menambah vektor animasi, efek parallax dan lain sebagainya. Namun keunikannya sendiri juga tergantung pada kebutuhan. Ada beberapa desain yang dimana kita harus membuatnya secara minimalis seperti contohnya *e-commerce*.\
-Lain hal jika yang kita buat itu merupakan *self project* atau proyekpribadi dimana kita dapat membuat desain sesuka hati. Saya sendiri merasa bahwa ciri khas atau filosofi desain saya pun berubah-rubah dari waktu ke waktu seiring perkembangan diri. Jadi dari jawaban ini didapatkan, sebelum kita menerapkan filosofi desain kita, kita harus terlebih dahulu mengetahui dan menerapkan permintaan yang sesuai dengan yang user/klien minta.
+Lain hal jika yang kita buat itu merupakan *self project* atau proyek pribadi dimana kita dapat membuat desain sesuka hati. Saya sendiri merasa bahwa ciri khas atau filosofi desain saya pun berubah-rubah dari waktu ke waktu seiring perkembangan diri. Jadi dari jawaban ini didapatkan, sebelum kita menerapkan filosofi desain kita, kita harus terlebih dahulu mengetahui dan menerapkan permintaan yang sesuai dengan yang user/klien minta.
 
 **Q: Menurut anda, seberapa penting *user feedback* bagi rancangan desain yang anda buat ?**
 
@@ -43,6 +43,13 @@ A: Menurut saya, jika di skalakan dari 1 - 10, maka pentingnya *user feedback* t
 **Q: Ketika mendesain sesuatu, yang menjadi perhatian paling penuh dalam interaksi antara manusia dengan aplikasinya itu di bagian mana ?**
 
 A: Biasanya hal itu bergantung pada bisnis atau klien. Jika diambil contohnya adalah *e-commerce*, yang mendapat perhatian penuh saat mendesainnya itu biasanya berada pada bagian *home*. Dalam pembuatan *home* page pada *e-commerce*, kita harus membuat halaman *home* itu semenarik mungkin agar *user* tertarik mengulik kedalam aplikasi *e-commerce* yang telah dibuat itu. Terdapat juga beberapa kasus dimana halaman *home*-nya tidak begitu menarik namun sebenarnya isi dari *e-commerce* nya sangat menarik. Jika hal itu terjadi, *user* tidak akan mengulik kedalam *e-commerce* tersebut karena dengan melihat *home*-nya saja sudah tidak tertarik sehingga dapat membuat orang berprasangka isi dari *e-commerce*-nya juga tidak menarik. Namun di lain hal kita juga jangan membuat *home* yang menarik dengan isi yang kurang atau tidak menarik. Tentunya *user* juga tidak akan tertarik untuk mengulik kedalam *e-commerce* yang dibuat. Jadi dapat disimpulkan perhatian kita dalam membuat desain harus proporsional dan konsisten. 
+
+**Q: Bisakah anda menunjukkan salah satu hasil karya desain anda ?**\
+A:
+<img src="./Design/Home-1.png">
+<img src="./Design/Home-2.png">
+<img src="./Design/Home-3.png">
+<img src="./Design/Home-4.png">
 </p>
 
 <h2>Design Analysis</h2>
@@ -50,7 +57,7 @@ A: Biasanya hal itu bergantung pada bisnis atau klien. Jika diambil contohnya ad
 <p>
 Setelah mewawancarai bang Adit (Narasumber) , kami meminta salah satu produk yang pernah bang Adit buat. Bang Adit memberi kami sebuah proyek lama yang pernah ia buat dengan tools AdobeXD. Proyek tersebut mempunyai klien Pertamina. Dalam proyek tersebut, kami menganalisis bahwa proyek tersebut sudah memenuhi kepuasan klien, namun sesuai perkataan bang Adit, bahwa sebagus apapun design nya pasti ada kekurangan dan user yang tidak puas dengan design tersebut. Dan dalam analisa kami ini, kami mencoba untuk mengulas dan memberi komentar mengenai design yang bang Adit buat.
 
-Ulasan pertama mengenai login page. Seperti website pada umumnya, login yang diberikan tampak simple dan menampilkan form yang berisi e-mail. Password, Domain, dan login Button. Menurut kami, bagian laman login tersebut sudah cukup bagus dan tidak ada yang perlu dirubah. Hal ini membuat user tidak terlalu rumit dalam melakukan login pada website tersebut.
+Ulasan pertama mengenai login page. Seperti website pada umumnya, login yang diberikan tampak simple dan menampilkan form yang berisi e-mail. Password, Domain, dan Login Button. Menurut kami, bagian laman login tersebut sudah cukup bagus dan tidak ada yang perlu dirubah. Hal ini membuat user tidak terlalu rumit dalam melakukan login pada website tersebut.
 
 Ulasan kedua mengenai home page. Menurut kami, pada homepage ini sudah bagus, informasi yang tersedia dikemas dengan baik, ditampilkan dengan teratur, dan memiliki *thumbnail* yang menarik sehingga user yang mengunjungi website tersebut menjadi tertarik untuk mengulas lebih dalam website tersebut.
 
@@ -61,11 +68,21 @@ Ulasan ketiga mengenai content page. Menurut kami, dalam content page tersebut s
 
 
 <p> 
-Improvement 1<br>
-  
+
+***Improvement 1***
+
+**Before** | **After**
+---------- | ---------
+<img height=200 src="./Improve/Before.png">|<img height=350 src="./Improve/After.png">
+
 Pada improvement pertama ini, kami memperbaiki contact info pada bagian bawah website tersebut. Awalnya, contact info tersebut memiliki struktur yang memanjang kesamping dan berdempetan. Menurut kami, desain seperti itu membuat user tidak nyaman untuk membacanya sehingga kami mengganti struktur contact info tersebut menjadi semacam list (terstruktur kebawah) sehingga user lebih nyaman untuk membacanya.
 
-Improvement 2
+***Improvement 2***
+
+
+**Before** | **After**
+---------- | ---------
+<img height=300 src="./Improve/Before(2).png">|<img height=300 src="./Improve/After(2).png">
 
 Di improvement kedua, kami memperbaiki logo perusahaan (KOMET), notification button dan profile button yang terletak di pojok kanan atas. Menurut kami, lebih baik logo perusahaan tersebut diletakkan di sebelah kiri notification button dan profile button. Lalu, notification button dan profile button-nya diperbesar. 
 </p>
