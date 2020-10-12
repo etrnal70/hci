@@ -1,67 +1,37 @@
+# Assignment 1
+Table of Content
+- [x] Analisa Design
+- [x] Diagram Use Case
+- [x] Analisa Business Process
 
-# TASK 1 : Design Analysis
+## Task 1
+### Analisa User Interface (UI)
+- Penempatan kontak info dan username pengguna yang menimbulkan kebingungan.
+- Untuk tampilan lepas kunci, layout desain sebaiknya menggunakan layout grid untuk mempermudah pengguna dalam memilih.
+- Penggunaan map  satellite view yang mempersulit pemilihan lokasi
+- Pemilihan lokasi pada peta tidak menampilkan alamat pada kolom alamat
+- Penempatan promo yang seharusnya menjadi highlight dalam aplikasi
+- Tidak adanya pembatasan yang jelas tentang batasan jumlah penumpang
+- Tombol pilih pada peta pemilihan lokasi penjemputan seharusnya bisa di simplifikasi
+- Branding pada welcome page dimana mobil tidak sesuai
+- Opsi untuk forgot password dalam halaman login
+- Pembuatan menu baru khusus untuk bagian "Contact Us" 
+- Mobil di list berdasarkan merk atau jenis mobilnya
+- Peletakan harga yang disesuaikan dengan list mobil
+- Dashboard cukup terfokus pada LIZ TRANS saja, logo logout ditempatkan pada lama profile
+- Menu edit diberikan perubahan dimana edit harusnya memiliki menu khusus
+- Entri harga dan total harga seharusnya bukan merupakan entri input melainkan menjadi label hasil
+- Pada menu pemilihan mobil, daripada menggunakan background bisa diganti dengan preview interior dari mobil tersebut
+- Penambahan pesan rating dalam aplikasi ketika telah selesai melakukan transaksi
+- Simplifikasi dalam menu History dan Reservation dimana statusnya dapat dipindahkan kedalam card dari entri history
 
-## Abstract
-
-Di tahun 2018, masyarakat Hawaii dikejutkan dengan sebuah pesan dari Hawaiian Emergency Management Agency (HEMA) pada ponsel mereka mengenai peringatan akan datangnya rudal balistik. Situasi Hawaii saat itu berubah menjadi mencekam. Orang-orang berlarian mencari tempat perlindungan, kegiatan yang ada di Hawaii saat itu langsung berhenti. Kekacauan itu terjadi selama 30 menit hingga HEMA memberikan pengumuman kedua. Peringatan rudal balistik itu, ternyata adalah sebuah *test*.
-
-<p align="center">
-    <img width="529" height="230" src="./images/1119.webp">
-</p>
-<div align="center">Pesan peringatan rudal</div>
-
-## Main Topic
-Penyelidikan yang dilakukan pasca kejadian tersebut mengungkap sebuah fakta penting. Salah satu personil yang bekerja di kantor HEMA rupanya melakukan kesalahan dalam mengoperasikan sistem peringatan rudal tersebut. Setelah dimintai keterangan lebih lanjut, ternyata sang personil salah memilih opsi pada sistem. Seharusnya dia memilih menu untuk mengirimkan pesan *testing*, tetapi ia malah memilih peringatan asli.
-
-## Design Error
-<p align="center">
-    <img width="450" src="./images/user-interface.jpeg">
-</p>
-
-> ***Ket :***\
-> *PACOM (CDW) - State Only* [Peringatan rudal asli]\
-> *DRILL - PACOM (CDW) - State Only* [Uji peringatan]
-
-Dari kesalahan ini, terdapat detail penting. Opsi untuk melakukan uji sistem dan peringatan asli ternyata berada dalam satu menu yang sama dan terletak berdekatan. Hal ini menurut kami merupaka sebuah kesalahan desain yang tergolong fatal. Apalagi mengingat fakta bahwa kehidupan pasca insiden tersebut membuat beberapa orang kehilangan pekerjaan mereka di Hawaii. 
-
-## Design Analysis
-
-<img src="./images/Confirmation(Test).jpg">
-<img src="./images/YesConfirmation(Test).jpg">
-
-<img src="./images/Confirmation(Alarm).jpg">
-<img src="./images/YesConfirmation(alarm).jpg">
-
-<img src="./images/Confirmation(Cancel).jpg">
-<img src="./images/YesConfirmation(Cancel).jpg">
-<br>
-
-Dalam panel Nuclear Alerts, terdapat satu tombol yaitu tombol PACOM State, PACOM adalah singkatan dari Pacific Command. Panel ini adalah panel yang paling penting. Karena tombol yang ada di panel ini pernah disalahgunakan dengan tidak sengaja, jadi tombol ini dijadikan prioritas dengan diberi background warna merah.\
-
-1. Nuclear Alerts -> PACOM State -> Untuk menyalakan alarm nuklir PACOM di negara bagian.
-
-Dalam panel AMBER Alerts, terdapat dua tombol yaitu tombol Amber Alerts State dan Amber Alerts Kauai Country. AMBER adalah singkatan dari America's Missing: Broadcast Emergency Response. Panel ini adalah panel yang penting setelah Nuclear Alerts karena berfungsi untuk  mengumumkan ke publik dalam program membantu mencari anak yang diculik.\
-
-2. Amber Alerts -> Amber Alerts State -> Untuk menyalakan alarm AMBER di negara bagian.
-
-3. Amber Alerts -> Amber Alerts Kauai Country -> Untuk menyalakan alarm AMBER di negara Kauai, tombol ini memiliki fungsi dan jenis yang sama dengan Amber Alerts State namun hanya berbeda lokasi saja.
-
-Dalam panel Weather Alerts, terdapat 3 tombol yang berfungsi untuk mengumumkan peringatan-peringatan cuaca. terdapat peringatan tentang Tsunami Alert, High Surf Warning, Landslide.\
-
-4. Weather Alerts -> Tsunami Warning State --> Untuk menyalakan alarm cuaca tentang peringatan Tsunami di area negara bagian.
-
-5. Weather Alerts -> High Surf Warning Shores --> Untuk menyalakan alarm cuaca tentang peringatan ombak tinggi di area pantai.
-
-6.  Weather Alerts -> Landslide Road Closure --> Untuk menyalakan alarm cuaca tentang peringatan penutupan jalan karena longsor.
-
-Dalam panel Drill / Alerts, terdapat tiga tombol yang berfungsi sama seperti tombol-tombol sebelumnya namun dalam panel ini, semua tombol hanya untuk TESTING, bukan tombol sungguhan. tombol ini digunakan untuk menguji peringatan sebelum penggunaan tombol peringatan yang sebenarnya.\
-
-7. (DRILL) PACOM State -> Untuk menyalakan alarm test nuklir PACOM di negara bagian.
-
-8. (TEST) Amber Alert -> Untuk menyalakan alarm test AMBER.
-
-9.  (TEST) Tsunami Warning -> Untuk menyalakan alarm test peringatan tentang tsunami.
-
-Dan di luar tabel terdapat satu tombol yaitu BMD False Alarm, tombol ini terpisah dari panel karena memiliki fungsi yang berlawanan.\
-
-10. BMD False Alarm -> Untuk membatalkan alarm yang telah dilancarkan.
+### Analisa User Experience (UX)
+- Kurangnya hint interaksi ketika menekan tombol
+- Inkonsistensi pada penggunaan bahasa
+- Keterangan yang lebih jelas mengenai menu utama yaitu opsi "Dengan Driver" dan "Lepas Kunci"
+- Pada menu edit, kontras warna tidak dibedakan ketika kolom aktif saat di edit dan saat sedang tidak aktif
+- Menu promo yang seharusnya langsung terhubung dengan menu pemesanan, bukan hanya berupa info
+- Interaction flow pada pemesanan. Secara default seharusnya setelah pemilihan tanggal jemput langsung diikuti dengan pemilihan waktu jemput, bukan meminta user untuk melakukan interaksi dengan masing-masing input
+- Informasi tentang kontak dari LIZ TRANS bisa digunakan button khusus untuk memudahkan akses langsung pada telpon, email, atau website
+- Deskripsi mobil yang lebih informatif, yaitu hanya memuat informasi kunci pada mobil
+- Peningkatan pengalaman pengguna dimana ketika memasuki menu pemesanan, maka entri input langsung terisi dengan nama pengguna dan lokasi pengguna saat ini secara otomatis.
