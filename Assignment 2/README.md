@@ -61,6 +61,8 @@ Beberapa diantaranya adalah :
 - Menambah opsi Rating supaya User dapat menilai aplikasi.
 - Membuat detail gambar mobil supaya User dapat melihat rincian dari mobil tersebut.
 
+| | | | | |
+|-|-|-|-|-|
 |!(Welcome Page)[https://github.com/etrnal70/hci/blob/hw2/Assignment%202/Design/Akbar/Akbar-1.jpeg]|!(Dashboard)[https://github.com/etrnal70/hci/blob/hw2/Assignment%202/Design/Akbar/Akbar-2.jpeg]|!(About Page)[https://github.com/etrnal70/hci/blob/hw2/Assignment%202/Design/Akbar/Akbar-3.jpeg]|!(Choose Car)[https://github.com/etrnal70/hci/blob/hw2/Assignment%202/Design/Akbar/Akbar-4.jpeg]|!(Map Page)[https://github.com/etrnal70/hci/blob/hw2/Assignment%202/Design/Akbar/Akbar-5.jpeg]|
 
 Tools Design : Adobe XD
@@ -69,7 +71,9 @@ Tools Design : Adobe XD
 ### Design dari Mochammad Hanif Ramadhan
 TODO
 
-|!(Dashboard)[]|!(Order Page)[]|!(Profile Page)[]|
+| | | |
+|-|-|-|
+|!(Dashboard)[https://github.com/etrnal70/hci/blob/hw2/Assignment%202/Design/Hanif/Hanif-1.jpeg]|!(Order Page)[https://github.com/etrnal70/hci/blob/hw2/Assignment%202/Design/Hanif/Hanif-2.jpeg]|!(Profile Page)[https://github.com/etrnal70/hci/blob/hw2/Assignment%202/Design/Hanif/Hanif-3.jpeg]|
 
 ## Day 3 : Voting 
 
