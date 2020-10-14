@@ -90,10 +90,10 @@ Role :
 
 [Part I](https://drive.google.com/file/d/1IhgqP7fwzSJBet2LJIZpoHgIhWHMKVuz/view?usp=sharing)  |  [Subtitle](https://github.com/etrnal70/hci/blob/hw2/Assignment%202/subtitle/Day%204%20-%20Part%201.ass)
 
-[Part II](https://drive.google.com/file/d/1EE_DpgE1WRjh1cdvYzhBIVsmFzQHhNbe/view?usp=sharing)  |  [Subtitle](./subtitle/Day 4 - Part 2.ass)
+[Part II](https://drive.google.com/file/d/1EE_DpgE1WRjh1cdvYzhBIVsmFzQHhNbe/view?usp=sharing)  |  [Subtitle](https://github.com/etrnal70/hci/blob/hw2/Assignment%202/subtitle/Day%204%20-%20Part%202.ass)
 
-[Part III](https://drive.google.com/file/d/1uAvNsRFaMCo2HGhPlX12EfCqk0sHUmUW/view?usp=sharing)  |  [Subtitle](./subtitle/Day 4 - Part 3.ass)
+[Part III](https://drive.google.com/file/d/1uAvNsRFaMCo2HGhPlX12EfCqk0sHUmUW/view?usp=sharing)  |  [Subtitle](https://github.com/etrnal70/hci/blob/hw2/Assignment%202/subtitle/Day%204%20-%20Part%203.ass)
 
-[Part IV](https://drive.google.com/file/d/151dFgnqJsW9OJ_dH2QCGzYFZcWKnVaVS/view?usp=sharing)  |  [Subtitle](./subtitle/Day 4 - Part 4.srt)
+[Part IV](https://drive.google.com/file/d/151dFgnqJsW9OJ_dH2QCGzYFZcWKnVaVS/view?usp=sharing)  |  [Subtitle](https://github.com/etrnal70/hci/blob/hw2/Assignment%202/subtitle/Day%204%20-%20Part%204.srt)
 
 
