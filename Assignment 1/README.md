@@ -24,7 +24,7 @@ Di bagian menu Profile, terdapat beberapa data User seperti Nama, Alamat, Nomor,
 
 
 Business Process Key Use Case -->
-<img src="./Diagram/KeyBusiness.jpeg">
+<img src="./Diagram/Key-Business.jpeg">
 
 Business Process -->
 1. User menggunakan beberapa opsi yang ada di Main Menu, 
