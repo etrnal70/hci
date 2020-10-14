@@ -24,15 +24,7 @@ Setelah menggunakan opsi di Main Menu, info dari orderan dapat terlihat di Reser
 
 Di bagian menu Profile, terdapat beberapa data User seperti Nama, Alamat, Nomor, dan Email. Kemudian juga ada opsi untuk mengedit data tersebut.
 
-<<<<<<< HEAD
 **Business Process** :
-=======
-
-Business Process Key Use Case -->
-<img src="./Diagram/Key-Business.jpeg">
-
-Business Process -->
->>>>>>> a73c11c6ebc91269938b5bb797090a2e593663a3
 1. User menggunakan beberapa opsi yang ada di Main Menu, 
 2. kemudian Orderan tersebut akan masuk ke Reservation, 
 3. setelah Orderan selesai, akan masuk ke History,
