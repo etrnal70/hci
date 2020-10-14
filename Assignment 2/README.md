@@ -63,7 +63,7 @@ Beberapa diantaranya adalah :
 
 | | | | | |
 |-|-|-|-|-|
-|!(Welcome Page)[./Design/Akbar/Akbar-1.jpeg]|!(Dashboard)[./Design/Akbar/Akbar-2.jpeg]|!(About Page)[./Design/Akbar/Akbar-3.jpeg]|!(Choose Car)[./Design/Akbar/Akbar-4.jpeg]|!(Map Page)[./Design/Akbar/Akbar-5.jpeg]|
+|<img height=400 src="./Design/Akbar/Akbar-1.jpeg">|<img height=400 src="./Design/Akbar/Akbar-2.jpeg">|<img height=400 src="./Design/Akbar/Akbar-3.jpeg">|<img height=400 src="./Design/Akbar/Akbar-4.jpeg">|<img height=400 src="./Design/Akbar/Akbar-5.jpeg">|
 
 Tools Design : Adobe XD
 [Link Adobe XD](https://xd.adobe.com/view/0e127e7f-867a-4416-a0a9-de21b8ff5dca-5b41/?fullscreen)
@@ -73,7 +73,7 @@ TODO
 
 | | | |
 |-|-|-|
-|!(Dashboard)[./Design/Hanif/Hanif-1.jpeg]|!(Order Page)[./Design/Hanif/Hanif-2.jpeg]|!(Profile Page)[./Design/Hanif/Hanif-3.jpeg]|
+|<img height=400 src="./Design/Hanif/Hanif-1.jpeg">|<img height=400 src="./Design/Hanif/Hanif-2.jpeg">|<img height=400 src="./Design/Hanif/Hanif-3.jpeg">|
 
 ## Day 3 : Voting 
 
