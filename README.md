@@ -5,9 +5,7 @@
 - Farhan Dewanta Syahputra *1313619017* / [@Supiraru](https://github.com/Supiraru)
 - Akbar Maulana Alfatih *1313619003* / [@MosQyy](https://github.com/MosQyy)
 
-## [Assignment 1 : Design Analysis]()
-- [x] [Design Analysis]()
-- [x] [Use Case Diagram]()
+## [Assignment 1 : Design Analysis](https://github.com/etrnal70/hci/tree/hw2/Assignment%201#assignment-1)
 
 ## [Assignment 2 : Design Sprint](https://github.com/etrnal70/hci/tree/hw2/Assignment%202#task-2--design-sprint)
 ### [Day 1 : Discussion About Design Flaw](https://github.com/etrnal70/hci/tree/hw2/Assignment%202#day-1--discussion-about-design-flaw)
