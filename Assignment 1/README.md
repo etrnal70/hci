@@ -3,7 +3,6 @@
 ## Diagram
 <img src="./Diagram/Diagram-1.png">
 <img src="./Diagram/Diagram-2.jpeg">
-<img src="./Diagram/Key-Business.jpeg">
 
 ## Narration
 Liz Transport adalah sebuah aplikasi rental mobil. Didalam aplikasi tersebut, terdapat beberapa menu di Dashboard seperti :
@@ -23,6 +22,9 @@ Setelah User menggunakan salah satu dari tiga menu tersebut, Admin merespon sehi
 Setelah menggunakan opsi di Main Menu, info dari orderan dapat terlihat di Reservation. Setelah Pemesanan selesai, maka akan masuk ke menu History.
 
 Di bagian menu Profile, terdapat beberapa data User seperti Nama, Alamat, Nomor, dan Email. Kemudian juga ada opsi untuk mengedit data tersebut.
+
+**Business Process Key** :\
+<img src="./Diagram/Key-Business.jpeg">
 
 **Business Process** :
 1. User menggunakan beberapa opsi yang ada di Main Menu, 
