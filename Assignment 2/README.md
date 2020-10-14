@@ -86,6 +86,7 @@ Nama : Arrival Dwi Sentosa\
 Role : 
 - Co-Founder dan CTO di Sgara
 - Co-Founder dan IT Advisor di Disapora Connect Indonesia \
+
 [LinkedIn](https://www.linkedin.com/in/arrivaldwisentosa/?originalSubdomain=id)
 
 [Part I](https://drive.google.com/file/d/1IhgqP7fwzSJBet2LJIZpoHgIhWHMKVuz/view?usp=sharing)  |  [Subtitle](https://github.com/etrnal70/hci/blob/hw2/Assignment%202/subtitle/Day%204%20-%20Part%201.ass)
