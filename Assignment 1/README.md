@@ -28,5 +28,4 @@ Di bagian menu Profile, terdapat beberapa data User seperti Nama, Alamat, Nomor,
 1. User menggunakan beberapa opsi yang ada di Main Menu, 
 2. kemudian Orderan tersebut akan masuk ke Reservation, 
 3. setelah Orderan selesai, akan masuk ke History,
-4. kemudian jika User ingin mengorder lagi,
-5. bisa menggunakan Opsi dalam Main Menu lagi.
+4. kemudian jika User ingin mengorder lagi, bisa menggunakan Opsi dalam Main Menu lagi.
