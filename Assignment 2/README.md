@@ -85,7 +85,7 @@ Tools Design : Flutter\
 Nama : Arrival Dwi Sentosa\
 Role : 
 - Co-Founder dan CTO di Sgara
-- Co-Founder dan IT Advisor di Disapora Connect Indonesia \
+- Co-Founder dan IT Advisor di Disapora Connect Indonesia 
 
 [LinkedIn](https://www.linkedin.com/in/arrivaldwisentosa/?originalSubdomain=id)
 
