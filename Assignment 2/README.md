@@ -65,7 +65,7 @@ Beberapa diantaranya adalah :
 |-|-|-|-|-|
 |<img height=400 src="./Design/Akbar/Akbar-1.jpeg">|<img height=400 src="./Design/Akbar/Akbar-2.jpeg">|<img height=400 src="./Design/Akbar/Akbar-3.jpeg">|<img height=400 src="./Design/Akbar/Akbar-4.jpeg">|<img height=400 src="./Design/Akbar/Akbar-5.jpeg">|
 
-Tools Design : Adobe XD
+Tools Design : Adobe XD\
 [Link Adobe XD](https://xd.adobe.com/view/0e127e7f-867a-4416-a0a9-de21b8ff5dca-5b41/?fullscreen)
 
 ### Design dari Mochammad Hanif Ramadhan
@@ -75,24 +75,24 @@ TODO
 |-|-|-|
 |<img height=400 src="./Design/Hanif/Hanif-1.jpeg">|<img height=400 src="./Design/Hanif/Hanif-2.jpeg">|<img height=400 src="./Design/Hanif/Hanif-3.jpeg">|
 
-Tools Design : Flutter
+Tools Design : Flutter\
 [Link APK](./Design/Hanif/liz_transport.apk)
 
 ## Day 3 : Voting 
 [Video](https://drive.google.com/file/d/1j1WYxRb3GLonmF-MJyxNkqVNh8_cfUbT/view?usp=sharing)  |  [Subtitle](./subtitle/Day 3 - Voting.srt)
 
 ## Day 4 : Design Discussion with Developer
-Nama : Arrival Dwi Sentosa
+Nama : Arrival Dwi Sentosa\
 Role : 
 - Co-Founder dan CTO di Sgara
-- Co-Founder dan IT Advisor di Disapora Connect Indonesia
+- Co-Founder dan IT Advisor di Disapora Connect Indonesia \
 [LinkedIn](https://www.linkedin.com/in/arrivaldwisentosa/?originalSubdomain=id)
 
 [Part I](https://drive.google.com/file/d/1IhgqP7fwzSJBet2LJIZpoHgIhWHMKVuz/view?usp=sharing)  |  [Subtitle](https://github.com/etrnal70/hci/blob/hw2/Assignment%202/subtitle/Day%204%20-%20Part%201.ass)
 
 [Part II](https://drive.google.com/file/d/1EE_DpgE1WRjh1cdvYzhBIVsmFzQHhNbe/view?usp=sharing)  |  [Subtitle](https://github.com/etrnal70/hci/blob/hw2/Assignment%202/subtitle/Day%204%20-%20Part%202.ass)
 
-[Part III](https://drive.google.com/file/d/1uAvNsRFaMCo2HGhPlX12EfCqk0sHUmUW/view?usp=sharing)  |  [Subtitle](./subtitle/Day 4 - Part 3.ass)
+[Part III](https://drive.google.com/file/d/1uAvNsRFaMCo2HGhPlX12EfCqk0sHUmUW/view?usp=sharing)  |  [Subtitle](https://github.com/etrnal70/hci/blob/hw2/Assignment%202/subtitle/Day%204%20-%20Part%203.ass)
 
 [Part IV](https://drive.google.com/file/d/151dFgnqJsW9OJ_dH2QCGzYFZcWKnVaVS/view?usp=sharing)  |  [Subtitle](https://github.com/etrnal70/hci/blob/hw2/Assignment%202/subtitle/Day%204%20-%20Part%204.srt)
 
