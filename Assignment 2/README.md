@@ -69,7 +69,12 @@ Tools Design : Adobe XD\
 [Link Adobe XD](https://xd.adobe.com/view/0e127e7f-867a-4416-a0a9-de21b8ff5dca-5b41/?fullscreen)
 
 ### Design dari Mochammad Hanif Ramadhan
-TODO
+Pada desain ini, saya memiliki visi untuk memberikan sentuhan Material Design yang lebih kuat dari aplikasi aslinya. Selain itu, tujuan utama saya adalah untuk meningkatkan *user-experience* bagi pengguna. Beberapa diantaranya adalah :
+- Simplifikasi pada menu "History" dan "Order" dengan menggabungkannya menjadi satu menu. Untuk menggantikan fungsionalitas yang hilang maka diberikan status pemesanan beserta kategori dari pesanan yang telah dilakukan. 
+- Memberikan sentuhan pada menu profile agar pengguna bisa lebih mengetahui apakah mereka sedang mengedit profil mereka atau tidak. 
+- Memberikan tombol khusus pada menu profil untuk mempermudah pengguna apabila ingin mengontak perusahaan.
+- Memindahkan tomol Log-Out agar posisi dan fungsionalitas-nya lebih jelas.
+- Memberikan bebrapa animasi di tempat tertentu untuk memberi indikasi jika pengguna sedang menyentuh menu tertentu.
 
 | | | |
 |-|-|-|
@@ -79,7 +84,13 @@ Tools Design : Flutter\
 [Link APK](./Design/Hanif/liz_transport.apk)
 
 ## Day 3 : Voting 
-[Video](https://drive.google.com/file/d/1j1WYxRb3GLonmF-MJyxNkqVNh8_cfUbT/view?usp=sharing)  |  [Subtitle](https://github.com/etrnal70/hci/blob/hw2/Assignment%202/subtitle/Day%203%20-%20Voting.srt)
+[Video](https://drive.google.com/file/d/1j1WYxRb3GLonmF-MJyxNkqVNh8_cfUbT/view?usp=sharing)  |  [Subtitle](https://github.com/etrnal70/hci/blob/hw2/Assignment%202/subtitle/Day%203%20-%20Voting.srt)\
+**Peserta :** 
+- Hary Susilo Pratama
+- Abdullah Azzam
+- Rudiansyah Pratama
+
+**Hasil :** Desain milik Akbar terpilih sebagai desain yang akan mewakilkan Team A untuk selanjutnya diajukan kepada developer.
 
 ## Day 4 : Design Discussion with Developer
 Nama : Arrival Dwi Sentosa\
