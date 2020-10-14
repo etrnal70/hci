@@ -88,7 +88,7 @@ Role :
 - Co-Founder dan IT Advisor di Disapora Connect Indonesia
 [LinkedIn](https://www.linkedin.com/in/arrivaldwisentosa/?originalSubdomain=id)
 
-[Part I](https://drive.google.com/file/d/1IhgqP7fwzSJBet2LJIZpoHgIhWHMKVuz/view?usp=sharing)  |  [Subtitle](./subtitle/Day 4 - Part 1.ass)
+[Part I](https://drive.google.com/file/d/1IhgqP7fwzSJBet2LJIZpoHgIhWHMKVuz/view?usp=sharing)  |  [Subtitle](https://github.com/etrnal70/hci/blob/hw2/Assignment%202/subtitle/Day%204%20-%20Part%201.ass)
 
 [Part II](https://drive.google.com/file/d/1EE_DpgE1WRjh1cdvYzhBIVsmFzQHhNbe/view?usp=sharing)  |  [Subtitle](./subtitle/Day 4 - Part 2.ass)
 
