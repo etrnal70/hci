@@ -1,0 +1,268 @@
+1
+00:00:00,000 --> 00:00:10,200
+Farhan : So, we can conclude its better to pick library that support the OS of most user, right?.
+
+2
+00:00:10,800 --> 00:00:20,100
+Yes, Sure. Because there are several libraries that depend on each other.
+
+3
+00:00:20,600 --> 00:00:24,800
+Is there anyone here who has ever developed an Android application? With Native?.
+
+4
+00:00:25,500 --> 00:00:26,000
+Not yet.
+
+5
+00:00:26,200 --> 00:00:28,000
+Farhan : We actually have a lecture about mobile programming at fifth semester i think.
+
+6
+00:00:28,100 --> 00:00:33,600
+Ohh Ok Ok. Just self-taught, there are many lessons hehe.
+
+7
+00:00:37,100 --> 00:00:40,000
+Just Self-taught. Many lessons.
+
+8
+00:00:40,500 --> 00:00:43,700
+Because if we waiting for Campus, that's long haha.
+
+9
+00:00:43,900 --> 00:00:47,800
+Farhan : yes, you right, it will be long.
+
+10
+00:00:48,100 --> 00:00:53,600
+Yes like that. Just explore it and wait for the Campus.
+
+11
+00:00:54,100 --> 00:01:02,100
+So, in Android, We have many external libraries. So we dont use the default from Google, because it's not enough. 
+
+12
+00:01:02,600 --> 00:01:03,800
+So we use an External Library.
+
+13
+00:01:04,100 --> 00:01:13,300
+Sometimes the external library is depend by other external library. So like that and it's very troublesome if the project is big.
+
+14
+00:01:14,000 --> 00:01:18,200
+If the project is big, we don't know how many libraries that depends each others.
+
+15
+00:01:18,800 --> 00:01:26,800
+Like so. Who knows if i upload one library and then 
+i forget this library is depends with other three library, like that.
+
+16
+00:01:27,400 --> 00:01:32,700
+Because only update one library (the minor), automatically the relation with other is not supported.
+
+17
+00:01:33,000 --> 00:01:41,800
+This is often to happen. So, the update of the library is get into major improvement.
+
+18
+00:01:42,400 --> 00:01:46,200
+What is major improvement? Althought the version is up a little bit, like so.
+
+19
+00:01:46,500 --> 00:01:55,700
+Because, it could be depends by other library. it must be checked again when the version is up, we must testing again, like that.
+
+20
+00:01:56,400 --> 00:02:00,100
+That's what the most happen in Mobile. Android especially.
+
+21
+00:02:03,400 --> 00:02:06,200
+Farhan: we are still in the third semester, and we still learn from the theory.
+
+22
+00:02:06,400 --> 00:02:07,100
+Yes true, yes true.
+
+23
+00:02:10,600 --> 00:02:14,200
+Yes true, like so.
+
+24
+00:02:14,200 --> 00:02:38,000
+Farhan: we dont have much experience like software testing, software development just like you said just now, i dont even know the process of making application entirely. cause you just what i said just know, we are still in the third semester
+
+25
+00:02:38,200 --> 00:02:40,100
+Ohh ok ok, yes yes. That's fine.
+
+26
+00:02:41,400 --> 00:02:46,200
+You will internship, right? Later during the internship, you can also studying.
+
+27
+00:02:46,500 --> 00:02:50,500
+Farhan: yes, maybe in fifth semester or seventh? i forgot.
+
+28
+00:02:50,800 --> 00:02:53,200
+Haha, that's still took a long time, Bro. Haha.
+
+29
+00:02:55,600 --> 00:02:57,600
+If possible, you can internship at start up.
+
+30
+00:02:58,100 --> 00:03:01,500
+Farhan: In which kind of startup?.
+
+31
+00:03:02,000 --> 00:03:07,300
+New Boss, because you guys will have many lessons, usually. 
+
+32
+00:03:08,200 --> 00:03:09,800
+That's my experince at Start Up.
+
+33
+00:03:10,100 --> 00:03:14,200
+Isn't Start Up must have a high hard work?
+
+34
+00:03:15,600 --> 00:03:18,200
+Ohh, you means the works is heavier?
+
+35
+00:03:18,300 --> 00:03:21,300
+Yes, like must got carried at the beginning.
+
+36
+00:03:22,200 --> 00:03:32,400
+That's true. In my opinion, if you are doing an intership at the settle company, you're task is limit at that point.
+
+37
+00:03:32,800 --> 00:03:37,200
+Sometimes there is no task, usually a new student just like that, like so.
+
+38
+00:03:37,400 --> 00:03:43,200
+We are not trusted to handle a big task, that usually happen to a new interner.
+
+39
+00:03:44,000 --> 00:03:53,200
+If at the Start Up, because the limit of human source and cost efficiency, etc, finally they use whatever is there, like that.
+
+40
+00:03:53,800 --> 00:04:06,300
+So you will be guided by Senior Programmer in there to try to build like this, etc. So at the end, usually will be given more trust.
+
+41
+00:04:06,600 --> 00:04:16,300
+So you will be handle a live field-project, so you're role will learn many things. 
+
+42
+00:04:16,600 --> 00:04:24,600
+Just for sure that will be more hard compare to Settle. But like Traveloka, Gojek, etc it's still Okay.
+
+43
+00:04:25,200 --> 00:04:29,400
+I mean, they're not yet like... Do you guys have heard about Agile?
+
+44
+00:04:30,400 --> 00:04:32,000
+Farhan: yes i have heard of it.
+
+45
+00:04:32,200 --> 00:04:34,000
+Agile ohh Agile.. Yes yes.
+
+46
+00:04:34,000 --> 00:04:36,000 
+Farhan: oh Agile framework, like scrum right?
+
+47
+00:04:36,200 --> 00:04:37,300
+Yes true, Scrum. That's it.
+
+48
+00:04:38,100 --> 00:04:48,200
+A Company like that is usually adopted an Agile so they work will be efficient and keep maintenance.
+
+49
+00:04:49,000 --> 00:04:55,100
+Sometimes on a big Company if the task is done, they will do nothing like a week.
+
+50
+00:04:56,200 --> 00:05:03,800
+That's the point, so i recommend to go to place like Start Up and implement that.
+
+51
+00:05:04,000 --> 00:05:09,100
+Sometimes, usually that's pity. The thing is when we intern, we need to absorb many knowledge first, like that.
+
+52
+00:05:11,100 --> 00:05:23,400
+That's pity if we intern at place like we don't get much knowledge at there. So, as well as an intern in a good place, like so to get more knowledge.
+
+53
+00:05:23,600 --> 00:05:35,000
+Farhan: does startup usually always accept an intern?
+
+54
+00:05:35,300 --> 00:05:42,800
+Yes. Honestly if a New Start Up, they will looking for intern, Why? Because while there is money.
+
+55
+00:05:43,200 --> 00:06:00,500
+Farhan: Because intern doesnt get paid right? i think its gonna be somekind a symbiotic mutualism, where the intern got the experience and the start up got a indirectly free employee right?
+
+56
+00:06:01,100 --> 00:06:04,600
+Yes. That's what i'm doing that time haha.
+
+57
+00:06:07,800 --> 00:06:25,300
+So, first is efficiency cost, second is we like... in Programmer, there is a Senior, Middle, Junior.
+
+58
+00:06:25,800 --> 00:06:37,100
+If a Senior Programmer, they have they own principle, own framework, like that. Usually it has been difficult to be channeled.
+
+59
+00:06:38,000 --> 00:06:46,000
+So usually, if it's me, if i'm like hiring or finding a developer is looking a fresh graduate which is have a new experience like 1 or 2 years.
+
+60
+00:06:46,500 --> 00:06:58,800
+Why? Because i can try to synchronize how the development process, how to program, etc.
+
+61
+00:06:59,100 --> 00:07:01,800
+So, it's according to what is done in the office.
+
+62
+00:07:02,100 --> 00:07:05,500
+Sometimes, if it's like that is still accepted, like that.
+
+63
+00:07:06,800 --> 00:07:09,100
+That's it.
+
+64
+00:07:10,300 --> 00:07:41,800
+Farhan: Closing the discussion , and thanking to the developer for the time
+
+65
+00:07:42,100 --> 00:07:44,000
+Yeah, You're welcome.
+
+66
+00:07:53,600 --> 00:07:55,800
+Yes, You're Welcome. Waallaikumsalam
+
+67
+00:07:56,000 --> 00:07:57,800
+Thank youu, Broo.

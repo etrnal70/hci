@@ -1,0 +1,356 @@
+1
+00:00:00,000 --> 00:00:03,000
+Bismillahirahmanirahim, Assalamuallaikum Warahmatullahi Wabarakatuh
+
+2
+00:00:04,000 --> 00:00:07,100
+Waallaikumsalam Warahmatullahi Wabarakatuh
+
+3
+00:00:07,800 --> 00:00:26,300
+Good Night Friends, give thanks to Allah SWT because we can gather on the 3rd day of the design sprint, namely the discussion / voting that will be chosen later
+
+4
+00:00:26,700 --> 00:00:38,200
+to shorten the time, just start the first presentation from design Akbar Maulana. to Akbar Maulana, please welcome.
+
+5
+00:00:43,400 --> 00:00:44,000
+Wait...
+
+6
+00:00:48,200 --> 00:00:49,000
+It's Done?
+
+7
+00:00:49,800 --> 00:00:51,200
+Done, Done
+
+8
+00:00:57,800 --> 00:01:00,600
+Just play it or what??
+
+9
+00:01:01,000 --> 00:01:02,800
+Just play it already and zoom it
+
+10
+00:01:05,800 --> 00:01:07,600
+Okeyy
+
+11
+00:01:10,100 --> 00:01:14,300
+So, this is my design
+
+12
+00:01:16,600 --> 00:01:32,400
+the first things is Login and Register. In the original app, the image is a sport car image so we changed it into family car.
+
+13
+00:01:33,300 --> 00:01:38,700
+It's because sport car is deviated from the goal of the app.
+
+14
+00:01:38,900 --> 00:01:48,800
+And then, in the Register. there is just a basic Register, nothing change in there.
+
+15
+00:01:49,900 --> 00:02:04,800
+And then, in the Login. Just changed the "Don't have an account", so if we clicked it, then goes to Register and make it User Friendly.
+
+16
+00:02:06,800 --> 00:02:17,500
+FYI Friends, in the original app doesn't have an "Don't have an account" so basically just a basic Register.
+
+17
+00:02:19,100 --> 00:02:40,100
+go Login, and then direct to Dashboard. In the Dashboard, changed it to just have a Logo, Promo, Main Menu, and Navigation Bar.
+
+18
+00:02:41,800 --> 00:03:01,200
+In the original app, before that, in the Header that's have a little logo, name, and Contact Info and i think that is not effective so i changed it to only logo and the other component is wrapped in another menu.
+
+19
+00:03:02,100 --> 00:03:12,800
+And then, for Promo and Main Menu, in the original app the position is Main Menu first and then Promo. so i changed it to Promo first and then Main Menu. 
+
+20
+00:03:14,100 --> 00:03:15,800
+And then, what else...
+
+21
+00:03:17,100 --> 00:03:26,100
+so the Dashboard is just like that, just moving some component. And then go to Reservation.
+
+22
+00:03:27,100 --> 00:03:54,600
+Before that, in the Navigation Bar, the Reservation and History is separated each others. so i think History can be wrapped in Reservation because they have an same contents just With Driver, Rent a Car and Taxi, and make it one button over there.
+
+23
+00:03:55,800 --> 00:03:57,800
+so if clicked, and then goes to History. Just like that...
+
+24
+00:04:02,500 --> 00:04:03,600
+And then, go to About
+
+25
+00:04:04,200 --> 00:04:17,100
+in the old Dashboard, there is a Contact Developer in the Dashboard, in the top of it. so, we moved it here. in the NavBar About.
+
+26
+00:04:18,800 --> 00:04:28,100
+This is a Number Phone, Email and Web. and then, there is a License and then a button for rating in the Google Play.
+
+27
+00:04:29,500 --> 00:04:44,600
+And then on Profile, from the original App, there is only Edit button. But in here, i changed it to add Change Password and Log Out. And if we click Edit...
+
+28
+00:04:46,800 --> 00:04:52,600
+Edit and then Save, after that on Change Password must input a Current Password, New Password and Confirm Password
+
+29
+00:04:53,300 --> 00:04:56,400
+if Log Out, then goes out from the App
+
+30
+00:04:59,500 --> 00:05:02,800
+Ok that's done. so just only discuss about Main Menu.
+
+31
+00:05:05,200 --> 00:05:11,500
+In the Main Menu, there's a three option, With Driver, Rent a Car and Taxi. First, With Driver.
+
+32
+00:05:14,400 --> 00:05:38,800
+Nah, Umm... In the original App, the design is same like this but the car is bigger, you can see that. But in here, i make it coulumn so make it simple. And then, if we choose it...
+
+33
+00:05:39,700 --> 00:06:01,600
+We're in the Menu. And then, in the original App there is only a moving picture of the car. But in here, i make it like this to refer the car.
+
+34
+00:06:04,100 --> 00:06:17,600
+And then, at the bottom just like the original App. If choose it, there's told to fill the input, and then if clicked it, it will goes to With Driver Reservation.
+
+35
+00:06:20,100 --> 00:06:38,100
+And then, the second is Rent a Car. At Rent a Car, that's basically same like With Driver. The different is just the fill input. The car picture is just the same.
+
+36
+00:06:40,000 --> 00:06:47,300
+And then next, fill up the form and click Payment and it will go to Rent a Car Reservation.
+
+37
+00:06:48,200 --> 00:07:01,000
+The last one is Taxi, this is different from the others. Taxi is rent a Taxi or call a Taxi so the fill form is different from the others because have "Pickup Address".
+
+38
+00:07:01,800 --> 00:07:21,700
+If we click it, it will show up a Map. In the original App, the Map is on Satelite Mode. Satelite Mode can make the App heavier and not good looking
+
+39
+00:07:22,200 --> 00:07:40,000
+So, i made it white and it will show a small road instead. And then, move the "Choose" button to bottom. Initially, the "Choose" button is in the left side of Header.
+
+40
+00:07:41,800 --> 00:08:02,100
+And then, umm... if choose "Choose", it will show a fill form andd then... Oh, at the Price / Passenger in the original App is have a bug. We can't change the price.
+
+41
+00:08:03,100 --> 00:08:19,100
+The type is input field but it can't be changed so i changed it to Label field. And if we click "Request", it will go to Taxi Reservation.
+
+42
+00:08:21,000 --> 00:08:32,100
+Done. The last thing is the Promo. Actually, the Promo is still same, there's no different between the original App. So, that's it from the Design.
+
+43
+00:08:35,000 --> 00:08:37,700
+Done. Thank youuu...
+
+44
+00:08:39,500 --> 00:08:39,900
+Okeyy
+
+45
+00:08:40,000 --> 00:08:43,100
+I'm in hurry, Right? haha.
+
+46
+00:08:43,200 --> 00:08:48,000
+*We're apologize, Farhan Mic is turned off here. So, we continue the design discussion with Hanif :).
+
+47
+00:08:57,100 --> 00:09:04,000
+Okeyy, thank you Aan for the welcome. Wait...
+
+48
+00:09:10,800 --> 00:09:13,000
+Do you see that? 
+
+49 
+00:09:14,000 --> 00:09:17,000
+Yes, we see it. Done..
+
+50
+00:09:31,600 --> 00:09:34,000
+Bismillahirahmanirahim, Assalamuallaikum Warahmatullahi Wabarakatuh
+
+51
+00:09:35,100 --> 00:09:36,100
+Waallaikumsalam Warahmatullahi Wabarakatuh
+
+52
+00:09:37,100 --> 00:09:47,100
+So, i'm apologize my design is not final, but i finished only the front page.
+
+58
+00:09:48,100 --> 00:09:58,800
+So... In here, just let me explain because i want a new design flow, so i try to use material design for my inspiration design.
+
+59 
+00:10:01,000 --> 00:10:07,000
+soo.. straight to the design, there is a three menu's from 4 is simplified to 3. There is Dashboard, Orders and Profile.
+
+60
+00:10:07,100 --> 00:10:14,100
+For the Dashboard Menu, there's just swap the Promo and Main Menu place because Promo will be the Highlight for the App.
+
+61
+00:10:17,400 --> 00:10:28,800
+And then, in the Orders Menu, i try to make a simple from the original App that is the History and Order is separated and the Driver, Key Only and Taxi is separated too..
+
+62
+00:10:29,200 --> 00:10:34,500
+In here, i want to combine that with a status indicator. 
+
+63
+00:10:35,600 --> 00:10:44,600
+First thing here is at the top right, there is a status from the Orders, is that With Driver / Key Only / Taxi.
+
+64
+00:10:45,100 --> 00:10:56,300
+And then next, there is a date, times of ordering, a message, and then there is a status if they On The Way or Already Completed.
+
+65
+00:10:58,100 --> 00:11:02,200
+And then the rating if the Order is complete and if it doesn't completed yet, the rating is not showed up.
+
+66
+00:11:06,200 --> 00:11:08,400
+And then.. go to Profile. 
+
+67
+00:11:09,000 --> 00:11:26,400
+The Profile page have a some information. On the original App, the Personal Info can't show to User the text field is active or not.
+
+68
+00:11:26,800 --> 00:11:34,600
+So i just changed it to make it can be filled and after "Apply", the text field is inactive.
+
+69
+00:11:35,800 --> 00:11:47,500
+And then, there is a Contact Us Menu. In the original App, the Contact is separated and just a text but in here i make it a button so the user can press it and then can contact the developer directly.
+
+70
+00:11:48,200 --> 00:11:52,200
+And here also have a button to Rate Us and a button to Log Out. 
+
+71
+00:11:52,900 --> 00:11:57,200
+Okey Done. Thank You. Wassalamuallaikum Warahmatullahi Wabarakatuh.
+
+72
+00:12:00,100 --> 00:12:01,500
+Waallaikumsalam Warahmatullahi Wabarakatuh.
+
+73
+00:12:02,100 --> 00:12:04,400
+Okeee, Vote...
+
+74
+00:12:05,100 --> 00:12:07,100
+Azzam First, because he is the first one joining the Discussion.
+
+75
+00:12:07,500 --> 00:12:08,500
+Whatever Whatever...
+
+76
+00:12:11,200 --> 00:12:30,500
+From the UI, i choose Hanif. Becaus he make it simple but also clear. For the example, at the Orders Menu, there is a On Going and others. So, he make it simpler and also the detail is still exist.
+
+77
+00:12:31,200 --> 00:12:41,800
+But from the Features, like Akbar changing the Maps, he said change from the satelite to different view.
+
+78
+00:12:49,100 --> 00:12:56,600
+So, i choose Hanif. Please then i leave it to Rudi.
+
+79
+00:12:57,100 --> 00:13:12,000
+Now? Okey, umm.. actually, from the button that has been created, you also removed the button at the bottom.
+
+80
+00:13:13,100 --> 00:13:20,000
+I think i choose hanif. Because the colour scheme like the gradation is awesome. That's the first one.
+
+81
+00:13:21,100 --> 00:13:48,800
+And then, he also add a feature like On Going, etc. But, i think on the front Menu, there is a Only Key. I'm afraid the User doesn't know that is just only rent a car key. if i think so...
+
+82
+00:13:49,100 --> 00:14:04,600
+Oke for Akbar, i salute for the Maps, i swear it. For the example, sometimes User App is got limit by the Quota or device is not compatible for high setting.
+
+83
+00:14:06,100 --> 00:14:15,200
+And then, for the Contact that can be use. If in hanif that is united with Profile, i'm afraid the User got a missperseption
+
+84
+00:14:15,500 --> 00:14:18,300
+So.. the point is, i choose Akbar.
+
+85
+00:14:20,000 --> 00:14:22,200
+Okeeyy, Thank youu
+
+86
+00:14:23,200 --> 00:14:27,100
+Oke, i think i'm decisive because the result is draw.
+
+87
+00:14:28,800 --> 00:14:37,000
+From me, from the presentation that Hanif and Akbar did. Both of it is still having a advantages and disadvantages.
+
+88
+00:14:37,400 --> 00:14:47,200
+from Hanif's side, the material design is good. But, it still having some empty places. 
+
+89
+00:14:47,600 --> 00:15:06,400
+There's a UI and UX, Hanif have more point in UI and for Akbar have more point in UX because have more features, but from i see, the UI is have some button that overused and then unnecessary use of gradations.
+
+90
+00:15:07,800 --> 00:15:24,200
+But of course if we see from the purpose of the App, that is more to the use value and help user to Rent a Taxi, etc so must have many features.
+
+91
+00:15:25,200 --> 00:15:36,200
+So from me, i choose Akbar. Because, although the design have an disadvantages, that still have more features and it will be the point that the user will use.
+
+92
+00:15:36,500 --> 00:15:37,000
+Good!
+
+93
+00:15:39,200 --> 00:15:47,000
+Wee, Akbar wee...
+
+94
+00:15:55,600 --> 00:15:58,000
+Waallaikumsalam Warahmatullahi Wabarakatuh 
+

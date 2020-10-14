@@ -75,7 +75,25 @@ TODO
 |-|-|-|
 |<img height=400 src="./Design/Hanif/Hanif-1.jpeg">|<img height=400 src="./Design/Hanif/Hanif-2.jpeg">|<img height=400 src="./Design/Hanif/Hanif-3.jpeg">|
 
-## Day 3 : Voting 
+Tools Design : Flutter
+[Link APK](./Design/Hanif/liz_transport.apk)
 
-## Day 4 : Giving Feedback to the Developer
+## Day 3 : Voting 
+[Video](https://drive.google.com/file/d/1j1WYxRb3GLonmF-MJyxNkqVNh8_cfUbT/view?usp=sharing)  |  [Subtitle](./subtitle/Day 3 - Voting.srt)
+
+## Day 4 : Design Discussion with Developer
+Nama : Arrival Dwi Sentosa
+Role : 
+- Co-Founder dan CTO di Sgara
+- Co-Founder dan IT Advisor di Disapora Connect Indonesia
+[LinkedIn](https://www.linkedin.com/in/arrivaldwisentosa/?originalSubdomain=id)
+
+[Part I](https://drive.google.com/file/d/1IhgqP7fwzSJBet2LJIZpoHgIhWHMKVuz/view?usp=sharing)  |  [Subtitle](./subtitle/Day 4 - Part 1.ass)
+
+[Part II](https://drive.google.com/file/d/1EE_DpgE1WRjh1cdvYzhBIVsmFzQHhNbe/view?usp=sharing)  |  [Subtitle](./subtitle/Day 4 - Part 2.ass)
+
+[Part III](https://drive.google.com/file/d/1uAvNsRFaMCo2HGhPlX12EfCqk0sHUmUW/view?usp=sharing)  |  [Subtitle](./subtitle/Day 4 - Part 3.ass)
+
+[Part IV](https://drive.google.com/file/d/151dFgnqJsW9OJ_dH2QCGzYFZcWKnVaVS/view?usp=sharing)  |  [Subtitle](./subtitle/Day 4 - Part 4.srt)
+
 
