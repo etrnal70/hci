@@ -1,0 +1,59 @@
+```plantuml
+@startuml
+skinparam actorStyle awesome
+actor "<<Business Actor>>\nUser" as usr
+package Main_Menu {
+  usecase "Dashboard" as MM1
+  usecase "History" as MM2
+  usecase "Order" as MM3
+  usecase "Profile" as MM4
+}
+
+package Profile_Menu {
+  usecase "Profile Information" as PM1
+  usecase "Edit Profile" as PM2
+}
+
+package Order {
+  usecase "Order <Dengan Driver>" as OR1
+  usecase "Order <Lepas Kunci>" as OR2
+  usecase "Order <Taxi>" as OR3
+}
+
+package History {
+  usecase "Riwayat <Dengan Driver>" as HS1
+  usecase "Riwayat <Lepas Kunci>" as HS2
+  usecase "Riwayat <Taxi>" as HS3
+}
+
+package Dashboard {
+  usecase "Dengan Driver" as DB1
+  usecase "Lepas Kunci" as DB2
+  usecase "Taxi" as DB3
+}
+
+package Pesanan {
+  usecase "Pesanan dibuat" as FIN
+}
+
+"Pilih Lokasi\nPenjemputan" as (PLP)
+"Pilih Mobil dan Kota" as [PMK]
+"Pilih Tanggal Sewa \ndan Durasi" as (PTSD)
+"Pilih Paket" as (PP)
+
+usr --Main_Menu 
+MM4 --- Profile_Menu
+MM3 --- Order
+MM2 --- History
+MM1 ----- Dashboard
+PM2 ..> PM1 : extends
+DB3 ---> PLP
+DB2 ---> (PMK) : <Lepas \nKunci>
+PMK ---> (PTSD) : <Lepas \nKunci>
+PTSD ---> FIN
+DB1 ---> (PMK) : <Dengan \nDriver>
+PMK --> (PP) : <Dengan \nDriver>
+PP ---> PLP
+PLP ---> FIN
+@enduml
+```

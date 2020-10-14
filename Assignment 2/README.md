@@ -1,88 +1,72 @@
+# TASK 2 : Design Sprint
 
-# TASK 2 : Interviewing a UI/UX Designer
-
-**Nama : Aditya Ramadhan**\
-*Role : Freelance UI / UX Designer*
-
-<h2>Interview</h2>
-
-<p style="text-align: justify">
-
-**Q: Latar belakang anda sebagai seorang desainer ?**
-
-A: Awalnya, saya memulai kesukaan desain saya pada saat SMA. Saat itu saya bercita-cita masuk DKV di ITB, tetapi rezeki saya adalah di UIN di Sistem Informasi. Saya disana lebih belajar mengenai sistem bisnis dan manajemen. Disana, saya juga belajar tentang *Human Computer Interaction* dan belajar mengenai ergonomis, intuitif, dan belajar mengenai hal-hal yang saya suka saat mendesain. Dari situlah saya mulai berkenalan dengan dunia *front-end development*.\
-Karena memang *interest* saya ada di design, pada akhirnya ketika saya lulus kuliah saya menekuni bidang *front-end development* itu. Saya fokus pada pengembangan UI / UX. Dan baru sekarang ini juga mulai merambah ke dunia *mobile*.
-
-**Q: Bisakan anda menceritakan perjalanan karir anda sebagai seorang UI/UX desainer hingga seperti sekarang ini ?**
-
-A: Awal mulanya itu, pas akhir-akhir kuliah, di depan kampus saya kan ada rumah sakit gitu. Nah, untuk tampilan dari *website* rumah sakit itu bisa dibilang jelek lah, banyak hal yang tidak tersedia. Saya kemudian berinisiatif untuk melakukan riset terkait cara buat ningkatin kualitas dari UI nya itu. Waktu itu masih pakai cara riset biasa, 5W + 1H. Saya kumpulin informasi buat ningkatin pengalaman pasien ketika menggunakan *website* dari rumah sakit tersebut.\
-Setelah rancangan desainnya jadi, sudah *eye-catching*, barulah saya masukin kodingannya. Implementasi *backend* nya. Nah sejak itu saya mulai berkarir di bidang UI/UX desainer. Pas udah lulus, cari-cari kerja juga di bidang itu. Alasan lain selain karena saya minat, bidang UI/UX juga beberapa ada yang gajinya lumayan. Karena kan UI/UX gak cuma desain aja kayak *frontend*, ada *user experience* disitu, ada bisnis. UI/UX lebih banyak pertimbangan juga kayak apakah perlu aplikasi ini di desain ulang, apakah perlu dibuat, butuh lebih banyak *insight*. Tapi itu yang buat saya tertarik juga sih. 
-
-**Q: Ada gak sih inspirasi atau hal yang bikin memotivasi anda sebelum mendesain sesuatu ?**
-
-A: Pertama sih, saya kan *based on project*. Nah kita lihat dulu tuh biasanya, proses bisnisnya gimana. Kita jabarin dulu lewat *use-case* gitu. Apakah aplikasi ini dibutuhin oleh orang banyak atau tidak. Intinya kita konsepkan dulu batasan-batasan / *scope*-nya sesuai kliennya.\
-Setelah oke, kita bikin *sketch* dulu terkait desainnya. Untuk inspirasi sih biasanya saya cari lewat *website-website* serupa seperti kalo *e-commerce* ya bisa liat di tokopedia, bukalapak, dan lain-lain. Nah dari situ kita bisa lihat nih apasih yang gak ada di *webiste* *e-commerce* yang udah establish itu. Ini ga harus unsur desain ya, bisa juga terkait fitur tertentu. Karena ini soal *user experience*. 
-
-**Q: Anda tadi mengatakan bahwa mencari inspirasi desain lewat toko yang sudah ada. Apa itu berarti anda juga tetap menerapkan satu atau lain hal yang ada di toko tersebut ?**
-
-A: Iya betul unsur atau struktur *e-commerce* itu kan bisa dibilang mirip lah satu sama lain. Beberapa unsur desainnya juga udah lumrah buat ada. Jadi paling untuk ngebedainnya ya dengan *brands*-nya aja.
-
-**Q: Lalu apakah menerapkan unsur yang ada pada desain lain merupakan suatu hal yang harus dilakukan untuk memudahkan user dalam menggunakan aplikasi kita ? Hal ini didasari dengan user yang sudah terbiasa dengan desain *e-commerce* lain.**
-
-A: Tidak juga. Kalau kalian tau, perusahaan besar seperti tokopedia biasanya setiap beberapa saat selalu melakukan penyegaran desain pada *website* atau aplikasi mereka. Sebutannya *design sprint*. Karena user base mereka sudah besar sekali, dari berbagai golongan usia dan latar belakang, mereka harus sering memfilter desain mereka agar bisa digunakan untuk semua kalangan. Setiap minggu makanya mereka selalu menerima *feedback* atau ide baru terhadap desain mereka.
-
-**Q: Apakah anda memiliki suatu ciri khas atau filosofi tertentu dalam merancang suatu konsep desain ?**
-
-A: Menurut saya, setiap orang mempunyai *taste* desain yang berbeda-beda dan ini lebih mengarah ke relatif. Dan untuk membedakannya, saya berusaha untuk membuat desain yang seunik mungkin. Contohnya seperti menambah vektor animasi, efek parallax dan lain sebagainya. Namun keunikannya sendiri juga tergantung pada kebutuhan. Ada beberapa desain yang dimana kita harus membuatnya secara minimalis seperti contohnya *e-commerce*.\
-Lain hal jika yang kita buat itu merupakan *self project* atau proyek pribadi dimana kita dapat membuat desain sesuka hati. Saya sendiri merasa bahwa ciri khas atau filosofi desain saya pun berubah-rubah dari waktu ke waktu seiring perkembangan diri. Jadi dari jawaban ini didapatkan, sebelum kita menerapkan filosofi desain kita, kita harus terlebih dahulu mengetahui dan menerapkan permintaan yang sesuai dengan yang user/klien minta.
-
-**Q: Menurut anda, seberapa penting *user feedback* bagi rancangan desain yang anda buat ?**
-
-A: Menurut saya, jika di skalakan dari 1 - 10, maka pentingnya *user feedback* terdapat pada angka 10, atau dapat dibilang sangat penting. Karena memang *goals* atau tujuan kita itu untuk kepuasan pengguna dalam berinteraksi dengan desain kita. Jadi meski desainer menganggap desain yang ia buat itu sudah bagus, namun di mata user itu jelek atau kurang memuaskan, maka mau tidak mau desainer harus mengganti desainnya yang sesuai dengan user minta. Dalam beberapa kasus pun terdapat user-user yang memiliki pendapat yang saling berlawanan. Misal user A bilang oh ini terlalu besar, tetapi di sisi lain user B bilang ini terlalu kecil. Jika sudah terjadi kondisi seperti itu, saya sendiri menyatakan bahwa sebagai desainer biasanya kita ambil yang punya sampel terbanyak. Sampel terbanyak itu yang nantinya akan kita ikuti. Karena seperti yang saya bilang bahwa sebagus apapun desain pasti ada orang yang tidak suka, maka dari itu di perlukan *feedback* dengan sampel terbanyak dalam merancang suatu desain.
-
-**Q: Ketika mendesain sesuatu, yang menjadi perhatian paling penuh dalam interaksi antara manusia dengan aplikasinya itu di bagian mana ?**
-
-A: Biasanya hal itu bergantung pada bisnis atau klien. Jika diambil contohnya adalah *e-commerce*, yang mendapat perhatian penuh saat mendesainnya itu biasanya berada pada bagian *home*. Dalam pembuatan *home* page pada *e-commerce*, kita harus membuat halaman *home* itu semenarik mungkin agar *user* tertarik mengulik kedalam aplikasi *e-commerce* yang telah dibuat itu. Terdapat juga beberapa kasus dimana halaman *home*-nya tidak begitu menarik namun sebenarnya isi dari *e-commerce* nya sangat menarik. Jika hal itu terjadi, *user* tidak akan mengulik kedalam *e-commerce* tersebut karena dengan melihat *home*-nya saja sudah tidak tertarik sehingga dapat membuat orang berprasangka isi dari *e-commerce*-nya juga tidak menarik. Namun di lain hal kita juga jangan membuat *home* yang menarik dengan isi yang kurang atau tidak menarik. Tentunya *user* juga tidak akan tertarik untuk mengulik kedalam *e-commerce* yang dibuat. Jadi dapat disimpulkan perhatian kita dalam membuat desain harus proporsional dan konsisten. 
-
-**Q: Bisakah anda menunjukkan salah satu hasil karya desain anda ?**\
-A:
-<img src="./Design/Home-1.png">
-<img src="./Design/Home-2.png">
-<img src="./Design/Home-3.png">
-<img src="./Design/Home-4.png">
-</p>
-
-<h2>Design Analysis</h2>
-
-<p>
-Setelah mewawancarai bang Adit (Narasumber) , kami meminta salah satu produk yang pernah bang Adit buat. Bang Adit memberi kami sebuah proyek lama yang pernah ia buat dengan tools AdobeXD. Proyek tersebut mempunyai klien Pertamina. Dalam proyek tersebut, kami menganalisis bahwa proyek tersebut sudah memenuhi kepuasan klien, namun sesuai perkataan bang Adit, bahwa sebagus apapun design nya pasti ada kekurangan dan user yang tidak puas dengan design tersebut. Dan dalam analisa kami ini, kami mencoba untuk mengulas dan memberi komentar mengenai design yang bang Adit buat.
-
-Ulasan pertama mengenai login page. Seperti website pada umumnya, login yang diberikan tampak simple dan menampilkan form yang berisi e-mail. Password, Domain, dan Login Button. Menurut kami, bagian laman login tersebut sudah cukup bagus dan tidak ada yang perlu dirubah. Hal ini membuat user tidak terlalu rumit dalam melakukan login pada website tersebut.
-
-Ulasan kedua mengenai home page. Menurut kami, pada homepage ini sudah bagus, informasi yang tersedia dikemas dengan baik, ditampilkan dengan teratur, dan memiliki *thumbnail* yang menarik sehingga user yang mengunjungi website tersebut menjadi tertarik untuk mengulas lebih dalam website tersebut.
-
-Ulasan ketiga mengenai content page. Menurut kami, dalam content page tersebut sudah berisi informasi yang banyak berguna bagi user. Tetapi, dalam content tersebut terdapat sebagian deskripsi yang menurut kami tidak memuaskan. pertama-tama, font deskripsi tersebut terlalu kecil dan juga terlalu rapat sehingga terlalu sulit untuk dibaca bagi sebagian user. Seharusnya font tersebut diperbesar dan juga padding dari tulisan tersebut diperbesar sehingga tulisan tersebut tampak lebar dan tidak rapat-rapat jadi user dapat membaca content tersebut dengan jelas.
-</p>
-
-<h2>Design Improvement</h2>
+Table of Content
+- [x] Day 1 : Discussion About Design Flaw
+- [x] Day 2 : Creating A Competing Design
+- [x] Day 3 : Voting 
+- [x] Day 4 : Giving Feedback to the Developer
 
 
-<p> 
+## Day 1 : Discussion About Design Flaw
+[Video](https://www.youtube.com/playlist?list=PLqvhZMgGxt6JQomRS88j_qoYddwvMh_6m)
 
-***Improvement 1***
+### Analisa User Interface (UI)
+- Penempatan kontak info dan username pengguna yang menimbulkan kebingungan.
+- Untuk tampilan lepas kunci, layout desain sebaiknya menggunakan layout grid untuk mempermudah pengguna dalam memilih.
+- Penggunaan map  satellite view yang mempersulit pemilihan lokasi
+- Pemilihan lokasi pada peta tidak menampilkan alamat pada kolom alamat
+- Penempatan promo yang seharusnya menjadi highlight dalam aplikasi
+- Tidak adanya pembatasan yang jelas tentang batasan jumlah penumpang
+- Tombol pilih pada peta pemilihan lokasi penjemputan seharusnya bisa di simplifikasi
+- Branding pada welcome page dimana mobil tidak sesuai
+- Opsi untuk forgot password dalam halaman login
+- Pembuatan menu baru khusus untuk bagian "Contact Us" 
+- Mobil di list berdasarkan merk atau jenis mobilnya
+- Peletakan harga yang disesuaikan dengan list mobil
+- Dashboard cukup terfokus pada LIZ TRANS saja, logo logout ditempatkan pada lama profile
+- Menu edit diberikan perubahan dimana edit harusnya memiliki menu khusus
+- Entri harga dan total harga seharusnya bukan merupakan entri input melainkan menjadi label hasil
+- Pada menu pemilihan mobil, daripada menggunakan background bisa diganti dengan preview interior dari mobil tersebut
+- Penambahan pesan rating dalam aplikasi ketika telah selesai melakukan transaksi
+- Simplifikasi dalam menu History dan Reservation dimana statusnya dapat dipindahkan kedalam card dari entri history
 
-**Before** | **After**
----------- | ---------
-<img height=200 src="./Improve/Before.png">|<img height=350 src="./Improve/After.png">
+### Analisa User Experience (UX)
+- Kurangnya hint interaksi ketika menekan tombol
+- Inkonsistensi pada penggunaan bahasa
+- Keterangan yang lebih jelas mengenai menu utama yaitu opsi "Dengan Driver" dan "Lepas Kunci"
+- Pada menu edit, kontras warna tidak dibedakan ketika kolom aktif saat di edit dan saat sedang tidak aktif
+- Menu promo yang seharusnya langsung terhubung dengan menu pemesanan, bukan hanya berupa info
+- Interaction flow pada pemesanan. Secara default seharusnya setelah pemilihan tanggal jemput langsung diikuti dengan pemilihan waktu jemput, bukan meminta user untuk melakukan interaksi dengan masing-masing input
+- Informasi tentang kontak dari LIZ TRANS bisa digunakan button khusus untuk memudahkan akses langsung pada telpon, email, atau website
+- Deskripsi mobil yang lebih informatif, yaitu hanya memuat informasi kunci pada mobil
+- Peningkatan pengalaman pengguna dimana ketika memasuki menu pemesanan, maka entri input langsung terisi dengan nama pengguna dan lokasi pengguna saat ini secara otomatis.
 
-Pada improvement pertama ini, kami memperbaiki contact info pada bagian bawah website tersebut. Awalnya, contact info tersebut memiliki struktur yang memanjang kesamping dan berdempetan. Menurut kami, desain seperti itu membuat user tidak nyaman untuk membacanya sehingga kami mengganti struktur contact info tersebut menjadi semacam list (terstruktur kebawah) sehingga user lebih nyaman untuk membacanya.
 
-***Improvement 2***
+## Day 2 : Creating A Competing Design
+### Design dari Akbar Maulana Alfatih
+Jadi, saya membuat design seperti itu karena menurut saya akan memperbagus aplikasi tersebut. 
 
+Di design saya juga ditambahkan beberapa opsi yang dapat memudahkan user untuk menggunakan aplikasi tersebut. Beberapa opsi yang sudah ada (default dari app-nya) juga saya perbarui agar semakin interaktif.
 
-**Before** | **After**
----------- | ---------
-<img height=300 src="./Improve/Before(2).png">|<img height=300 src="./Improve/After(2).png">
+Beberapa diantaranya adalah :
+- Background dirubah agar lebih realistis.
+- Menyederhanakan logo Aplikasi supaya lebih nyaman dipandang.
+- Merubah beberapa struktur seperti Main Menu dan Promo pada Dashboard.
+- Menyederhanakan opsi History sehingga mudah untuk diakses User.
+- Membuat opsi About Us untuk memudahkan User menghubungi Developer Aplikasi.
+- Menambah Fitur Change Password.
+- Mengubah Edit Profile dan Menyederhanakan fungsi Log Out supaya User mudah untuk mengaksesnya.
+- Menyederhanakan gambar-gambar mobil supaya User dapat melihat semua mobil yang tersedia.
+- Mengubah tampilan Maps supaya terlihat lebih sederhana dan ringan.
+- Menambah opsi Rating supaya User dapat menilai aplikasi.
+- Membuat detail gambar mobil supaya User dapat melihat rincian dari mobil tersebut.
 
-Di improvement kedua, kami memperbaiki logo perusahaan (KOMET), notification button dan profile button yang terletak di pojok kanan atas. Menurut kami, lebih baik logo perusahaan tersebut diletakkan di sebelah kiri notification button dan profile button. Lalu, notification button dan profile button-nya diperbesar. 
-</p>
+Tools Design : Adobe XD
+[Link Adobe XD](https://xd.adobe.com/view/0e127e7f-867a-4416-a0a9-de21b8ff5dca-5b41/?fullscreen)
+
+### Design dari Mochammad Hanif Ramadhan
+TODO
+
+## Day 3 : Voting 
+## Day 4 : Giving Feedback to the Developer
+
