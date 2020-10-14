@@ -84,7 +84,7 @@ Tools Design : Flutter\
 [Link APK](./Design/Hanif/liz_transport.apk)
 
 ## Day 3 : Voting 
-[Video](https://drive.google.com/file/d/1j1WYxRb3GLonmF-MJyxNkqVNh8_cfUbT/view?usp=sharing)  |  [Subtitle](https://github.com/etrnal70/hci/blob/hw2/Assignment%202/subtitle/Day%203%20-%20Voting.srt)\
+[Video](https://drive.google.com/file/d/15EawLhEj0z_kKEVkmK7LfkU3WWtwSjlT/view?usp=sharing)  |  [Subtitle](https://github.com/etrnal70/hci/blob/hw2/Assignment%202/subtitle/Day%203%20-%20Voting.srt)\
 **Peserta :** 
 - Hary Susilo Pratama
 - Abdullah Azzam
