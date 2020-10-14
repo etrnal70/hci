@@ -14,7 +14,7 @@
 ### [Day 2 : Creating A Competing Design](https://github.com/etrnal70/hci/tree/hw2/Assignment%202#day-2--creating-a-competing-design)
 
 - [x] [Desain oleh Akbar Maulana Alfatih](https://github.com/etrnal70/hci/tree/hw2/Assignment%202#design-dari-akbar-maulana-alfatih)
-- [x] [Desain Oleh Mochammad Hanif Ramadhan](https://github.com/etrnal70/hci/tree/hw2/Assignment%202#design-dari-mochammad-hanif-ramadhan)
+- [x] [Desain oleh Mochammad Hanif Ramadhan](https://github.com/etrnal70/hci/tree/hw2/Assignment%202#design-dari-mochammad-hanif-ramadhan)
 
 ### [Day 3 : Voting](https://github.com/etrnal70/hci/tree/hw2/Assignment%202#day-3--voting)
 **Peserta :** 

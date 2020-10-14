@@ -1,4 +1,4 @@
-# TASK 2 : Design Sprint
+# Assignment 2 : Design Sprint
 
 Table of Content
 - [x] Day 1 : Discussion About Design Flaw
